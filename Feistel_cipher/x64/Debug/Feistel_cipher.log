@@ -1,2 +1,7 @@
 ﻿  Feistel_cipher.cpp
+C:\Users\Danila\source\repos\Feistel_cipher\Feistel_cipher\Feistel_cipher.cpp(138,49): warning C4244: аргумент: преобразование "unsigned long" в "_Ty", возможна потеря данных
+C:\Users\Danila\source\repos\Feistel_cipher\Feistel_cipher\Feistel_cipher.cpp(138,49): warning C4244:         with
+C:\Users\Danila\source\repos\Feistel_cipher\Feistel_cipher\Feistel_cipher.cpp(138,49): warning C4244:         [
+C:\Users\Danila\source\repos\Feistel_cipher\Feistel_cipher\Feistel_cipher.cpp(138,49): warning C4244:             _Ty=unsigned char
+C:\Users\Danila\source\repos\Feistel_cipher\Feistel_cipher\Feistel_cipher.cpp(138,49): warning C4244:         ]
   Feistel_cipher.vcxproj -> C:\Users\Danila\source\repos\Feistel_cipher\x64\Debug\Feistel_cipher.exe
